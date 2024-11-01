@@ -1,6 +1,6 @@
 🚀 **Ayuba Salami | Flutter Magician | Code Enthusiast** 🚀
 
-Hey there! 👋 I'm Ayuba, a passionate Flutter developer with two years experience, on a mission to craft delightful and innovative mobile experiences. 📱✨
+Hey there! 👋 I'm Ayuba, a passionate Flutter developer with three years experience, on a mission to craft delightful and innovative mobile experiences. 📱✨
 
 🔧 **Tech Toolbox:**
 - Flutter | Dart | Firebase 🔥
